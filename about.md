@@ -24,5 +24,5 @@ When I’m not doing research, I compete in hacking competitions called [ctfs](h
 - Vingroup Science and Technology Scholarship, 2023
 
 # Teaching
-- Spring 2025 : Cybersecurity (COMP4030) & Cryptography (COMP4050), Teaching Assistant, VinUni
-- Fall 2024 : Computer and Network Security (CIS 5510), Teaching Assistant, UPenn
+- Spring 2025 : Cybersecurity (COMP4030) & Cryptography (COMP4050), VinUni
+- Fall 2024 : Computer and Network Security (CIS 5510), UPenn
