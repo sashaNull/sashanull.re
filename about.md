@@ -15,7 +15,7 @@ When I’m not doing research, I compete in hacking competitions called [ctfs](h
 
 My go-to challenges are usually pwn and rev, but when they're too hard, I'll pretend I like web or osint just to feel productive. I compete under the handle *sashaNull*.
 
-# Projects
+# Past Projects
 
 [Pwnnsylvania](https://github.com/sashaNull/dojo): UPenn's innovative cybersecurity education platform, based on ASU's pwn.college. It offers hands-on, challenge-based learning in exploit development, reverse engineering, cryptography and web security.
 
