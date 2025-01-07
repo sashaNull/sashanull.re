@@ -29,9 +29,8 @@ My go-to challenges are usually pwn and rev, but when they're too hard, I'll pre
 - 2nd Place in CSAW CTF Qualification Round, USA, 2024
 - 6th Place in corCTF, USA, 2024
 - 4th Prize in 2024 ASEAN Student Contest on Information Security, Vietnam, 2024
-- 17th Place in vikeCTF, Australia, 2023	
 - 4th Place in Digital Overdose Autumn CTF, USA, 2021
-- Third Prize in The ACM-ICPC Northern Provincial Programming Contest, Vietnam, 2021
+- 3rd Prize in The ACM-ICPC Northern Provincial Programming Contest, Vietnam, 2021
 - Vingroup Science and Technology Scholarship, 2023
 
 # Teaching
