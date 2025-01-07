@@ -14,9 +14,11 @@ Hi, I'm **Nguyen Dinh Cuong** - a Master’s student at University of Pennsylvan
 When I’m not doing research, I compete in hacking competitions called [ctfs](https://ctftime.org/about/). I'm part of [Shellphish](https://shellphish.net/), one of the most legendary ctf teams out there. Back in undergrad, I started the [VinUni Hacking Club](https://github.com/V1nUn1H4ck1ngClub), where I now serve as an advisor, training the next generation of talented hackers. My go-to challenges are usually pwn and rev, but when they're too hard, I'll pretend I like web or osint just to feel productive. I compete under the handle *sashaNull*.
 
 # Projects
-- [Pwnnsylvania](https://github.com/sashaNull/dojo): UPenn's innovative cybersecurity education platform, based on ASU's [pwn.college](https://pwn.college). It offers hands-on, challenge-based learning in exploit development, reverse engineering, and systems security, preparing students to tackle real-world cybersecurity challenges.
-- [PennCloud](https://github.com/sashaNull/PennCloud): A scalable distributed system offering fault-tolerant storage, webmail, file management, user authentication, and an admin console for system monitoring and control.
-- [VinUni Hacking Club CTF 2023](https://github.com/V1nUn1H4ck1ngClub/VHC_CTF_2023): The official archive of challenges from VHC CTF 2023, organized by the VinUni Hacking Club. The archive includes the codebase, intended solutions, and resources for all competition challenges, spanning categories like Web, Crypto, Pwnable, Reverse Engineering, Programming, Forensics, and Miscellaneous.
+[Pwnnsylvania](https://github.com/sashaNull/dojo): UPenn's innovative cybersecurity education platform, based on ASU's [pwn.college](https://pwn.college). It offers hands-on, challenge-based learning in exploit development, reverse engineering, and systems security, preparing students to tackle real-world cybersecurity challenges.
+
+[PennCloud](https://github.com/sashaNull/PennCloud): A scalable distributed system offering fault-tolerant storage, webmail, file management, user authentication, and an admin console for system monitoring and control.
+
+[VinUni Hacking Club CTF 2023](https://github.com/V1nUn1H4ck1ngClub/VHC_CTF_2023): The official archive of challenges from VHC CTF 2023, organized by the VinUni Hacking Club. The archive includes the codebase, intended solutions, and resources for all competition challenges, spanning categories like Web, Crypto, Pwnable, Reverse Engineering, Programming, Forensics, and Miscellaneous.
 
 # Honors and Awards
 - Blue Belt, pwn.college, 2024
