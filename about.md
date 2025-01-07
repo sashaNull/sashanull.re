@@ -25,7 +25,7 @@ My go-to challenges are usually pwn and rev, but when they're too hard, I'll pre
 
 # Honors and Awards
 
-- Blue Belt, pwn.college, 2024
+- Blue Belt on pwn.college, 2024
 - 2nd Place in CSAW CTF Qualification Round, USA, 2024
 - 6th Place in corCTF, USA, 2024
 - 4th Prize in 2024 ASEAN Student Contest on Information Security, Vietnam, 2024
