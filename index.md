@@ -1,5 +1,5 @@
 ---
-title: '/home'
+title: 'sashanull.re'
 layout: home
 permalink: /
 ---
