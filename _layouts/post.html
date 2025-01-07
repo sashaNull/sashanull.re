@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+{% if page.description %}
+<h3>TL;DR</h3>
+{{ page.description }}
+<hr>
+
+<br>
+{% endif %}
+
+{{ content }}
+
+<script src="https://giscus.app/client.js"
+        data-repo="sashaNull/sashanull.re"
+        data-repo-id="R_kgDOGRvzPQ"
+        data-category="General"
+        data-category-id="DIC_kwDOGRvzPc4ClzH8"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

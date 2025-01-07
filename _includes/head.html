@@ -1,0 +1,51 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>{{ page.title }}</title>
+  {%- seo title=false -%}
+
+  {% if page.robots %}
+    <meta name="robots" content="{{page.robots}}" />
+  {% endif %}
+
+  {%- if site.listen_for_clients_preferred_style -%}
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/main.css" | relative_url }}">
+  {%- else -%}
+    {%- if site.style == 'light' -%}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-light.css" | relative_url }}">
+    {%- elsif site.style == 'hacker' -%}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-hacker.css" | relative_url }}">
+    {%- else -%}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-dark.css" | relative_url }}">
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  
+  <meta property="og:site_name" content="sashanull.re">
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  
+  {% if page.feature_image and page.feature_image != "" %}
+  <meta property="og:image" content="{{ page.feature_image | absolute_url }}" />
+  <meta name="twitter:image" content="{{ page.feature_image | absolute_url }}" />
+  {% else %}
+  <meta property="og:image" content="{{ site.favicon | absolute_url }}" />
+  <meta name="twitter:image" content="{{ site.favicon | absolute_url }}" />
+  {% endif %}
+
+  <meta property="og:url" content="{{ page.url | replace:'index.html', '' | absolute_url }}">
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  {% endif %}
+  <meta property="og:locale" content="en_US">
+
+  {% if site.favicon and site.favicon != "" %}
+  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/png" />
+  {% endif %}
+
+
+</head>

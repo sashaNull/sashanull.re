@@ -1,0 +1,23 @@
+title: 'sashanull.re'
+description: "The Art and Science of Exploitation"
+baseurl: ""
+url: "https://sashanull.re"
+
+header_pages:
+  - index.md
+  - about.md
+  - tags.md
+
+style: light
+
+footer: ''
+favicon: assets/images/favicon.png
+
+# Build settings
+markdown: kramdown
+
+plugins:
+- jekyll-seo-tag
+- jekyll-feed
+
+footer: '<a href="https://x.com/0xs4sha_null">twitter</a> | <a href="https://github.com/sashaNull">github</a> | cuongnd@seas.upenn.edu'
