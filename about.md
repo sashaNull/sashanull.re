@@ -15,11 +15,11 @@ When I’m not doing research, I compete in hacking competitions called [ctfs](h
 
 # Projects
 
-[Pwnnsylvania](https://github.com/sashaNull/dojo): UPenn's innovative cybersecurity education platform, based on ASU's [pwn.college](https://pwn.college). It offers hands-on, challenge-based learning in exploit development, reverse engineering, and systems security, preparing students to tackle real-world cybersecurity challenges.
+[Pwnnsylvania](https://github.com/sashaNull/dojo): UPenn's innovative cybersecurity education platform, based on ASU's pwn.college. It offers hands-on, challenge-based learning in exploit development, reverse engineering, cryptography and web security.
 
 [PennCloud](https://github.com/sashaNull/PennCloud): A scalable distributed system offering fault-tolerant storage, webmail, file management, user authentication, and an admin console for system monitoring and control.
 
-[VinUni Hacking Club CTF 2023](https://github.com/V1nUn1H4ck1ngClub/VHC_CTF_2023): The official archive of challenges from VHC CTF 2023, organized by the VinUni Hacking Club. The archive includes the codebase, intended solutions, and resources for all competition challenges, spanning categories like Web, Crypto, Pwnable, Reverse Engineering, Programming, Forensics, and Miscellaneous.
+[VinUni Hacking Club CTF 2023](https://github.com/V1nUn1H4ck1ngClub/VHC_CTF_2023): The official archive of challenges from VHC CTF 2023, organized by the VinUni Hacking Club. 
 
 # Honors and Awards
 
